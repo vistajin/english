@@ -1,0 +1,67 @@
+Science and technology: Vehicle engine management: Intelligence test A computer program that learns how to save fuel
+
+科技：车辆引擎管理：智能测试 一种习得省油的电脑程序
+
+From avoiding jaywalkers to emergency braking to eventually, perhaps, chauffeuring the vehicle itself, it is clear that artificial intelligence (AI) will be an important part of the cars of the future.
+
+从避开乱穿马路的行人到紧急制动再到自动驾驶，毫无疑问，人工智能（AI）将会成为未来汽车的重要组成部分。
+
+But it is not only the driving of them that will benefit. AI will also permit such cars to use energy more sparingly.
+
+这不仅能给驾驶本身带来方便。AI还能使那些车更节能。
+
+Cars have long had computerized engine-management that responds on the fly to changes in driving conditions. The introduction of electric power has, however, complicated matters.
+
+引擎的智能化管理早已应用于汽车，用以快速对行驶过程中路面状况的变化做出反应。然而，电力应用却存在难以处理的问题。
+
+Hybrids, which have both a petrol engine and an electric motor run by a battery that is recharged by capturing kineticenergy as the vehicle slows or brakes, need more management than does a petrol engine alone.
+
+混合动力车，同时具有汽油发动机与电动发动机，电池在汽车减速或刹车时通过动能转化而充电，但这需要投入较普通车更多的引擎管理。
+
+Things get even harder with plug-in hybrids, which can be recharged from the mains and have a longer electric-only range. This is where AI could help, reckon Xuewei Qi, Matthew Barth and their colleagues at the University of California, Riverside.
+
+带插头接点的混合动力车虽然能通过电源充电，并拥有更长的电动行驶时间，但引擎的智能化管理更加繁琐。这是AI的用武之地，来自位于里弗赛德的加州大学的Xuewei Qi、Matthew Barth和他们同事如此认为。
+
+They are developing a system of energy management which uses a piece of AI that can learn from past experience. Their algorithm works by breaking the trip down into small segments, each of which might be less than a minute long, as the journey progresses.
+
+他们正在研发一套能源管理系统，该系统能利用人工智能学习以往的经验。该程序的工作机制是在行驶的过程中，将整个行程拆分成独立小路段，每个路段的时长可能还不到一分钟。
+
+In each segment the system checks to see if the vehicle has encountered the same driving situations before, using data ranging from traffic information to the vehicle's speed, location, time of day, the gradient of the road, the battery's present state of charge and the engine's rate of fuel consumption.
+
+在每个路段中，系统通过校验以确认该车是否曾遇到过相同的行驶状态，参考数据包括交通信息，行驶速度，行驶位置，在一天中的时间，路面坡度，电池的电量状态以及发动机的燃油消耗率。
+
+If the situation is similar, it employs the same energy-management strategy that it used previously for the next segment of the journey. For situations that it has not encountered before, the system estimates what the best power control might be and adds the results to its database for future reference.
+
+如果条件相似，人工智能系统就会在剩下的行程中启动与前一次相同的行驶策略。如果是未遇到过的情况，系统会评估出最佳省能方案并将结果添加到数据库中以便日后的参考。
+
+Ultimately, the idea is that the algorithm will also learn from the experiences of its brethren in other cars, by arranging for all such systems to share their data online. Ideally, such a system would be fed its route and destination in advance, to make things easier to calculate.
+
+最终，通过数据在线分享的方式，可以获得其他车辆所获得的数据信息，这样就可以学习其他车辆上的经验。理想条件下，该系统会事先被预设路线与目的地，以使计算变得更为容易。
+
+But Dr Qi and Dr Barth are realists, and know that is unlikely to happen. If a satnav were invoked, it would be able to pass relevant information on to the algorithm.
+
+但Qi博士与Barth博士均为现实主义者，他们知道那并不太可能发生。如果使用卫星导航，它确实可以给该系统传送相关信息。
+
+But drivers use satnavs only to get them to unfamiliar destinations. Hence the researchers' decision to design a system that does not rely on knowing where it is going.
+
+但司机只有在去陌生地点时才会使用到导航。因此研究人员决定研发一款不依赖于目的地位置的系统。
+
+It seems to work-at least, in simulations. Using live traffic information to mimic journeys in southern California,
+
+至少在模拟状态看起来可行。利用现实交通实况模拟南加州道路，
+
+Dr Qi and Dr Barth compared their algorithm with a basic energy-management system for plug-in hybrids that simply switches to combustion power once the battery is depleted. As they report in a paper to be published in IEEE Transactions on Intelligent Transportation Systems, their system was 10.7% more efficient than the conventional one.
+
+Qi博士与Barth博士用他们的程序与普通燃油管理系统进行比较，后者用于传统带插头接电的混合动力车，当电池电量耗尽时，它能直接转换成汽油驱动的程序。正如他们在一篇即将发表于IEEE智能交通系统的论文上所述的那样，他们的系统比传统车燃油利用率高出10.7%。
+
+If the system is aware in advance that a recharging station will be used as part of the trip (which might be arranged by booking one via the vehicle's information screen) it can spread the use of electric power throughout the journey, to maximum advantage, knowing when the battery will be topped up.
+
+如果系统提前知道路上可以充电(这能通过在车上的信息屏幕进行预定，然后提前安排)，它能够在旅途中均衡使用电能，在知道电池在何时能够被充满的前提下，达到最大利用率。
+
+In such situations the average fuel saving was 31.5%. Dr Qi and his colleagues now hope to work with a carmaker to test the algorithm on real roads.
+
+并且平均省油将达到31.5%。Qi博士和他的同事目前希望能与汽车制造商合作，在实际道路上测试程序。
+
+If all goes well, and their system proves able to cope with the nightmares of commuting in southern California, they will not be left stranded on the hard shoulder.
+
+如果一切顺利，他们的系统将被证实能够解决南加州上下班路段的难题，那么也将不会出现车辆拥堵的情况了。
