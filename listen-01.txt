@@ -1,59 +1,27 @@
-Hello, I'm Marion Marshall with the BBC News. The Turkish President Recep Tayyip Erdogan has warned the United States,
+In 2011 Hector Levesque of the University of Toronto became annoyed by systems that "passed" the Turing Test by joking and avoiding direct answers. He later asked to borrow MrWinograd's name and the format of his dissertation's puzzle to pose a more genuine test of machine "understanding": the Winograd Schema.
 
-大家好，我是玛丽安·马歇尔，欢迎收听BBC新闻。土耳其总统雷杰普·塔伊普·埃尔多安警告美国称，
+2011年多伦多大学Hector Levesque对那些靠开玩笑和不直接回答问题"通过"图灵测试的系统感到恼火。随后他借用Winograd先生的名字和他论文中的谜题格式制作了一个更加真实的机器"理解能力"测试：Winograd模式。
 
-said Turkey is preparing to trade in currencies other than the dollar, the latest salvo in an escalating dispute. He said deals were envisaged with China, Iran, Russia and Ukraine.
+The answers to its battery of questions were obvious to humans but would require computers to have some reasoning ability and some knowledge of the real world. The first official Winograd Schema Challenge was held this year,
 
-土耳其准备不再用美元进行交易，这也是冲突不断升级后的新一股火力。他表示新的协议或将包括中国，伊朗，俄罗斯和乌克兰。
+其整组问题的答案对人类来说都是显而易见的，但却需要计算机有一定的推理能力和对现实世界了解。今年举行了第一次官方Winograd模式挑战，
 
-Addressing supporters, President Erdogan accused the US of trying to humiliate his country because of an American pastor Andrew Brunson, who's in prison in Turkey over terrorism charges.
+with a $25,000 prize offered by Nuance, the language-software company, for a program that could answer more than 90% of the questions correctly. The best of them got just 58% right.
 
-埃尔多安在对支持者讲话时指责美国侮辱土耳其， 因为美国牧师安德鲁·布朗森在土耳其因恐怖主义指控而入狱。
+Nuance语言软件公司为能够答对90%以上问题的计算机程序提供25000美元的奖励。但表现最好的正确率也只有58%。
 
-In respect to the pastor here, it is wrong to try to bring Turkey to its knees using threats. Let me address those in the US again. What a shame!
+Though officially retired, MrWinograd continues writing and researching. One of his students is working on an application for Google Glass, a computer with a display mounted on eyeglasses.
 
-关于美国牧师一事，美国试图用威胁的方法让土耳其屈服是错误的。让我对那些美国人说，真的可耻！
+尽管正式退休了，Winograd仍在继续写作和研究活动。他的一个学生在开发谷歌眼镜的应用程序（一个显示器安装在眼镜上的计算机）。
 
-You're trading a strategic partner in nature for pastor. There are 81 million people in this country. The position of these 81 million people in this strategic partnership can't be traded for anything.
+The app would help people withautismby reading the facial expressions of conversation partners and giving the wearer information about their emotional state. It would allow him to integratelinguistic and non-linguistic information in a way that people with autism find difficult, as do computers.
 
-从本质上来说，你在和战略伙伴盟友交易牧师，我们有8100万民众。在这一战略伙伴关系中，8100万民众无法用任何东西来买卖。
+该应用程序可以帮助孤独症患者通过阅读谈话对象的面部表情反馈给佩戴者对方的情绪状态信息。此程序可以将孤独症人群和计算机认为复杂的语言和非语言信息整合在一起。
 
-President Trump has said he condemns all types of racism as the US prepares to mark the anniversary of deadly clashes triggered by a neo-Nazi rally.
+Asked to trick some of the latest digital assistants, like Siri and Alexa, he asks them things like "Where can I find a nightclub my Methodistuncle would like?", which requires knowledge about both nightclubs (which such systems have) and Methodist uncles (which they don't).
 
-特朗普表示他对所有的种族主义表示谴责， 美国正准备纪念新纳粹主义集会流血事件一周年。
+谈及整蛊时下最新的数字助理，如Siri和Alexa，他问数字助理以下问题，如："我在哪里可以找我的卫理公会教派叔叔会喜欢的夜总会？"这需要了解夜总会的知识（系统包含）和卫理公会教派的叔叔（系统不包含）。
 
-In a tweet, Mr. Trump said the riots in Charlottesville, Virginia last August resulted in senseless death and division. At the time, the President faced widespread criticism
+When he tried "Where did I leave my glasses?", one of them came up with a link to a book of that name. None offered the obvious answer: "How would I know?"
 
-特朗普在推特中表示，去年八月，弗吉尼亚州夏洛茨维尔市的暴力事件造成了无意义的死亡和分歧。当时，总统遭到广泛谴责，
-
-for insisting that both sides were to blame for the violence between far-right demonstrators and their opponents. An interview with CBS television, the Democratic Senator for Virginia, Tim Kaine,
-
-他坚称不管是极右翼示威者还是反对者，双方都有责任。在接受哥伦比亚广播公司采访时，弗吉尼亚州的民主党议员蒂姆·凯恩，
-
-was asked whether he thought the President was a racist. I do not know. I have no idea about who he is as a person.
-
-被问到是否认为特朗普是一个种族主义者。我不清楚，我不清楚他究竟是怎样的人。
-
-So whether it's it's a sincere feeling or whether he thinks it gets him some political edge, or. . . again. I don't know the answer. But I don't know which of those two is worse.
-
-所以我不清楚他是出于个人真实的想法还是认为这样会给他带来政治上的优势，或是别的。我重申，并不知道答案。我也不知道，这两种可能性哪种更恶劣。
-
-If it's not your view, but you do it to try to get a political edge, and you try to stoke division, in some ways that's every bit as morally bad as holding views that are that are bigoted or racist.
-
-如果你不是一个种族主义者，但却为了政治利益这么做，或者煽动分歧，那么此举的道德败坏程度与顽固者或种族主义者无异。
-
-A special commission in Afghanistan has banned 35 people, including some high-profile and powerful figures from contesting the country's forthcoming parliamentary elections. Jill McGivering reports.
-
-阿富汗特别委员会取消了35人，其中包括有影响力和有权势的人物， 禁止他们参加即将到来的国会选举，以下是吉尔·麦吉弗林的报道。
-
-The 35 people on the commission's list are accused of such offenses as drug trafficking, human rights abuses or links to armed gangs. They all had complaints made against them, which the commission investigated and found credible.
-
-委员会名单上的35人被指控有贩毒、侵犯人权以及与武装帮派有联系等罪名。委员会收到了关于他们的投诉，经调查发现情况属实。
-
-The commission isn't a court of law, and those named deny wrongdoing. They include Faryadi Zardad, a former Afghan warlord who was convicted in the UK of multiple counts of torture in the 1990s.
-
-该委员会并不是一个法庭，另外名单上的人否认了罪名。这其中就包括前阿富汗军阀法利亚蒂·泽达德，上世纪90年代，他在英国因多项虐待罪而判处有罪。
-
-Some others on the list are so powerful. The political analysts have described their exclusion as a courageous step. You're listening to the latest world news from the BBC.
-
-名单中的人权势极大，政治分析人士称废除他们的资格是勇敢之举。您正在收听的是BBC国际新闻。
+当他问"我把眼镜放哪儿了？"其中一个弹出该书名的图书链接。二者都没有给出明摆着的答案："我怎么知道？"
