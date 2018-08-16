@@ -1,0 +1,48 @@
+Economists think prices, like spilt ketchup, are sticky. They move only slowly as firms digest economic conditions. Financial markets are an exception. Computerised trading by thousands of participants means prices, especially of currencies, can move in a McFlurry.
+
+经济学家认为价格就像溢出的番茄酱一样黏糊糊的。它们只会在公司消化经济状况时缓慢变动。金融市场却是个例外。由数千名参与者掌控的电算化交易意味着价格，尤其是货币可以在麦旋风中变动。
+
+Since The Economist last updated the Big Mac index (BMI), our lighthearted guide to currency valuation, burger prices have remained constant in 19 of 44 countries. But every currency has shifted in value.
+
+《经济学人》最近更新了巨无霸指数（BMI）—我们的货币评估指导，在44个国家中有19个国家的汉堡价格保持不变。但是每种货币的币值都有所变动。
+
+Our index uses a nugget of economic wisdom called purchasing power parity: currencies should adjust until goods cost the same everywhere. If, once converted into dollars, Big Mac prices vary, one or other currency looks dear.
+
+我们的指数是按照被誉为经济智慧天然金块的购买力平价法来计算：货币应该进行调整，直到各地商品成本一致。将货币折合成美元计算，如果巨无霸价格变动，那么一种或其他货币看起来似乎更值钱。
+
+Big movements in exchange rates, without similarly supersized shifts in burger prices, can send a currency up or down the index. That explains why the Argentine peso has been the biggest mover since January.
+
+在汉堡价格没有出现相似大幅变动的情况下，汇率的大幅变动会使指数随货币上下浮动。这也解释了为什么阿根廷比索自一月起出现了最大变幅。
+
+Then, it looked 25% undervalued compared with the dollar; today, that has swelled to 51%. The peso tumbled on fears of a debt crisis and inflation.
+
+比索较美元贬值25%；今天比索暴增至51%。出于对债务危机和通货膨胀的恐惧，比索暴跌。
+
+For similar reasons, two other emerging-market currencies, the Turkish lira and Brazilian real, are also big movers. Only the valuation of Norway's krone has moved much on account of purchasing power.
+
+出于相似原因，另外两个新兴市场货币—土耳其里拉和巴西雷亚尔，也出现了大幅变动。只有挪威克朗的价值评估是因为其购买力而出现大变动。
+
+A 14% fall in the dollar price of a Norwegian Big Mac has taken the krone from looking 18% overvalued in January to 5% undervalued now. This shift should be taken with a pinch of salt, however; burgers may be getting cheaper, but overall Norwegian inflation is a bland 2.6%.
+
+折成美元后，挪威巨无霸的价格比美国售价便宜了14%，这使克朗从一月的增值18%滑动到现在的贬值5%。这种变化应该不能全信。汉堡或许越来越便宜，但挪威整体通货膨胀仅2.6%。
+
+Sometimes, currency traders foresee long-term changes that have yet to move domestic prices. That may be true in Britain, where the pound has been particularly cheap since the Brexit vote in 2016. It now looks 23% undervalued.
+
+有时，货币交易员可以预见还未导致国内价格浮动的长期变化。在英国，这或许是事实，自2016年投票脱欧以来，英镑价值尤为低廉。现在似乎贬值了23%。
+
+At other times, currencies deviate from fundamentals because of temporary disparities in risks and short-term interest rates. America's economy is sizzling and the Federal Reserve is raising rates, but growth has flattened off elsewhere.
+
+其他时候，风险和短期利率的暂时性差异使货币偏离了基本。美国经济火热，美联储正在提高其比率，但是在其他各地的增长已持平。
+
+That has made the dollar as strong as a bull. Almost every currency in the index has weakened relative to the green back since January. Only two, the Swiss franc and the Swedish krona, now look overvalued against it.
+
+这使得美元牛市一样强劲。自一月起，相对于的美钞而言，指数中的几乎每种货币都有所削弱。只有瑞士法郎和瑞典克朗能与之抗衡。
+
+One beef with the BMI is that burgers cannot easily be traded across borders. Neither can some inputs to production, such as land and labour.
+
+巨无霸经济中有一种牛肉是汉堡无法轻易跨境交易的。比如土地和劳动力，均无法投入生产。
+
+To take account of this, we also produce another version of the index, which adjusts Big Mac prices for GDP per person.
+
+考虑到这一点，我们还能够创作出另一版本的指数—依据人均GDP调整巨无霸价格。
+
